@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Sudo Password
-// @namespace    https://kenny-hui.github.io
+// @name         GitHub Sudo Mode use password
+// @namespace    https://lx862.com
 // @version      1.0
 // @description  Save a click entering sudo mode if you prefer signing in with password
 // @author       LX86
